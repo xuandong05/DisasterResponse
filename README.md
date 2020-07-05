@@ -12,3 +12,16 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+### Libraries:
+- numpy
+- pandas
+- nltk
+- sqlalchemy
+- scikit_learn
+
+### Motivation:
+This project is part of Udacity Data Scientist Nano program. The original datasets are provided by FigureEight. 
+The project is to analyze data and build a classifier model for disaster message.
+
+
