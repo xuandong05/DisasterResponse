@@ -25,5 +25,5 @@ This project is part of Udacity Data Scientist Nano program. The original datase
 The project is to analyze data and build a classifier model for disaster message.
 
 ### Acknowledgement:
-I would like to thank FigureEight for providing the relevant data used in this project and Udacity for providint Data Scientist Nano Program.
+I would like to thank FigureEight for providing the relevant data used in this project and Udacity for providing Data Scientist Nano Program.
 
